@@ -10,8 +10,8 @@ Hi! I'm Ramzan Asif, a student with a passion for data science. This project is 
 **Regional Sales:** Analysis of sales performance across different regions, helping to identify high-performing areas and regions needing improvement.
 
 ## Tools and Techniques
-**Power BI:** Used for creating interactive and dynamic visualizations to present sales data effectively.
-**DAX (Data Analysis Expressions):** Employed to calculate various sales metrics and key performance indicators.
+**Power BI:** Used for creating interactive and dynamic visualizations to present sales data effectively.  
+**DAX (Data Analysis Expressions):** Employed to calculate various sales metrics and key performance indicators.  
 **Data Cleaning and Processing:** Conducted within Power BI to ensure accurate and reliable data analysis.
 
 ## Insights Derived
@@ -21,7 +21,7 @@ Hi! I'm Ramzan Asif, a student with a passion for data science. This project is 
 **Revenue Trends:** Highlighted trends in revenue generation, enabling better financial planning and forecasting.
 
 ## How to Use
-**Clone the Repository:** Clone the repository to your local machine using git clone https://github.com/yourusername/Cookie-Sales-Insights-Dashboard.git.  
+**Clone the Repository:** Clone the repository to your local machine using `git clone https://github.com/Ramzan-Asif/Cookie-Sales-Insights.git`.  
 **Open Power BI File:** Open the provided Power BI (.pbix) file in Power BI Desktop.  
 **Explore the Dashboard:** Interact with the various visuals and filters to explore the sales data and derive insights.
 
